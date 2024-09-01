@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/edf8dd9c619a4482a41ea73ec3d91905/artifacts
+end_time: 1725183819616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edf8dd9c619a4482a41ea73ec3d91905
+run_name: amazing-kit-664
+run_uuid: edf8dd9c619a4482a41ea73ec3d91905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725183819192
+status: 3
+tags: []
+user_id: surya
