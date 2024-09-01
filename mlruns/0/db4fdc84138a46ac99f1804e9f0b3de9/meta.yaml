@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/db4fdc84138a46ac99f1804e9f0b3de9/artifacts
+end_time: 1725183374230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db4fdc84138a46ac99f1804e9f0b3de9
+run_name: skittish-worm-616
+run_uuid: db4fdc84138a46ac99f1804e9f0b3de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725183373848
+status: 3
+tags: []
+user_id: surya

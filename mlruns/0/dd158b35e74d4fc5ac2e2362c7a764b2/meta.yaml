@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/dd158b35e74d4fc5ac2e2362c7a764b2/artifacts
+deleted_time: 1725183346091
+end_time: 1725183183306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dd158b35e74d4fc5ac2e2362c7a764b2
+run_name: unique-flea-26
+run_uuid: dd158b35e74d4fc5ac2e2362c7a764b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725183182890
+status: 3
+tags: []
+user_id: surya
